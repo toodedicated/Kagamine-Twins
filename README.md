@@ -1,4 +1,4 @@
-  ## Kagamine Rin/Len
+  ## Kagamine Rin & Len
 [English](README.md)
 
 ![Avatar](/image.png)
